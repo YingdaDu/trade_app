@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  tornado:
+    image: tornado
+    volumes:
+     - ./app:/var/www/app
+    ports:
+      - "8888:8888"
+    environment:
+      - APP_ENV=dev

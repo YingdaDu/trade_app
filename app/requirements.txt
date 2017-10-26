@@ -1,0 +1,5 @@
+Jinja2==2.9.5
+tornado==4.4.2
+w3lib==1.17.0
+SQLAlchemy==1.1.14
+pandas==0.20.3

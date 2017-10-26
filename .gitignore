@@ -1,0 +1,6 @@
+app/bin/
+app/lib/
+app/include/
+app/pip-selfcheck.json
+app/.Python
+app/frontend/node_modules
